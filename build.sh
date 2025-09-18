@@ -1,2 +1,2 @@
 echo "creation en cours ..."
-date
+ls
