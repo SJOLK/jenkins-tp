@@ -1,3 +1,3 @@
 echo "creation en cours ..."
 ls
-date
+echo "creation fini."
