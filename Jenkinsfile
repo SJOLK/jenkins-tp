@@ -42,7 +42,6 @@ pipeline {
   }
 
   post {
-    echo "Post"
     success {
       echo "Déploiement réussi du site web statique"
     }
